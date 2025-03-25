@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "CR/NCR Helper",
+    "version": "1.0",
+    "description": "On current techniques for cr/ncr.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "CR/NCR Courses"
+    },
+    "host_permissions": [
+      "https://degreeexplorer.utoronto.ca/*"
+    ],
+    "icons": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }

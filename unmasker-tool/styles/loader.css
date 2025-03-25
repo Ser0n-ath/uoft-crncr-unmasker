@@ -1,0 +1,20 @@
+.loading-indicator {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-left: 0.5em;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.visually-hidden {
+  display: none;
+}

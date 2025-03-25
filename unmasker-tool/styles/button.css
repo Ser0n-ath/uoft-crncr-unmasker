@@ -1,0 +1,38 @@
+button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background-color: #002a5c;
+    color: #fff;
+    border: none;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #2563eb;
+  }
+  
+  button:disabled:hover {
+    background-color: #002a5c;
+  }
+  
+  /* Styles for interactive buttons */
+  .action-button {
+    margin-top: 12px;
+    display: flex;
+    gap: 4px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Styles for buttons with centered content */
+  .centered-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+  }
+  
