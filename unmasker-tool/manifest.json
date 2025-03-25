@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "CR/NCR Helper",
+    "name": "CR/NCR Unmasker",
     "version": "1.0",
-    "description": "On current techniques for cr/ncr.",
+    "description": "A simple tool to view your CR/NCR marks on degree explorer",
     "action": {
       "default_popup": "popup.html",
       "default_title": "CR/NCR Courses"
