@@ -10,8 +10,9 @@
 
 
 <p align="center">
-  <a href="#progress">Progress</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#progress">Progress</a>
+  <a href="#how-to-install">How To Use</a> 
+  <a href="#how-to-build">How To Use</a>
   <a href="#license">License</a>
 </p>
 
