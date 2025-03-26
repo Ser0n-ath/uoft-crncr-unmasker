@@ -35,9 +35,10 @@
 <br>
 
 ## How to Build 
+
 - <p>The unmasker-tool <a href="https://github.com/Ser0n-ath/uoft-crncr-unmasker/tree/main/unmasker-tool" target="_blank">directory</a> contains the source code of this extension.</p>
 - <p>You may import this directory as a unpacked extension in chrome. </p>
-
+- <p>Alternatively download and extract the .zip version found in the same directory and load as an unpacked module. </p>
 <br>
 
 ## License
