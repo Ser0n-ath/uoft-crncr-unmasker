@@ -29,7 +29,7 @@
 <br>
 
 ## How To Install
-1. <p>Visit the <a href="https://www.utsc.utoronto.ca/registrar/track-your-progress-degree-explorer" target="_blank">dist</a> folder of this repository and download the <b>unmasker-tool.crx</b> </p> 
+1. <p>Visit the <a href="https://github.com/Ser0n-ath/uoft-crncr-unmasker/tree/main/dist" target="_blank">dist</a> folder of this repository and download the <b>unmasker-tool.crx</b> </p> 
 2. <p>Follow the youtube video on how to install a .crx chrome extension: <a href="https://www.youtube.com/watch?v=pqbCKydC26g" target="_blank">Video</a> </p>
 
 <br>
