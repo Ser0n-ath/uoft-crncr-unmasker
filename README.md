@@ -29,9 +29,9 @@
 <br>
 
 ## How To Install
-1. <p>Visit the <a href="https://github.com/Ser0n-ath/uoft-crncr-unmasker/tree/main/dist" target="_blank">dist</a> folder of this repository and download the <b>unmasker-tool.crx</b> </p> 
-2. <p>Follow the youtube video on how to install a .crx chrome extension: <a href="https://www.youtube.com/watch?v=pqbCKydC26g" target="_blank">Video</a> </p>
-3. <p>Alternatively download and extract the .zip version found in the same directory and load as an unpacked module. </p>
+1. Install from the chrome store: https://chromewebstore.google.com/detail/crncr-unmasker/dnkenneddldpmkhhckmfhhjbndnaekoa
+2. Alternatively, download the repository zip <a href="https://github.com/Ser0n-ath/uoft-crncr-unmasker/archive/refs/heads/main.zip" target="_blank">repo code</a> extract the content and visit the /dist and install the <b>unmasker-tool.crx</b> binary. For installing a .crx file watch the <a href="https://www.youtube.com/watch?v=pqbCKydC26g" target="_blank">guide</a>
+
 
 <br>
 
