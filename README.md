@@ -6,7 +6,14 @@
   <br>
 </h1>
 
+<p align="center">
+<a href="https://chromewebstore.google.com/detail/crncr-unmasker/dnkenneddldpmkhhckmfhhjbndnaekoa"><img src="https://github.com/user-attachments/assets/c4ee8c1e-6010-4c67-9450-a914dd2691d5" alt="Get CR/NCR unmasker for Chromium"></a><br>
+</p>
+
+
+
 <h4 align="center">A minimal chrome extension that lets you see your CR/NCR marks on <a href="https://www.utsc.utoronto.ca/registrar/track-your-progress-degree-explorer" target="_blank">Degree Explorer</a>.</h4>
+
 
 
 <p align="center">
