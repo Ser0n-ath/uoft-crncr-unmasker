@@ -1,15 +1,22 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Ser0n-ath/uoft-crncr-unmasker"><img src="https://github.com/user-attachments/assets/3d6ec4f2-c4fa-4a3d-9e79-79f36659c9db" alt="Markdownify" width="250"></a>
+  <a href="https://github.com/Ser0n-ath/uoft-crncr-unmasker"><img src="https://github.com/user-attachments/assets/68fb5a92-48c3-480d-9930-7623e6be0289" alt="Markdownify" width="350"></a>
   <br>
-  CRNCR-Unmasker
+  CRNCR-Unmasker (Broken)
   <br>
 </h1>
+
+<br>
+
+> **Notice:** _As of June 15, 2025, this tool has been patched by UofT._  
+> Grades for CR/NCR courses are no longer accessible, any marks shown will now appear as **"CR"**.  
+> Thanks to everyone who found it useful while it lasted!
+
+<br>
 
 <p align="center">
 <a href="https://chromewebstore.google.com/detail/crncr-unmasker/dnkenneddldpmkhhckmfhhjbndnaekoa"><img src="https://github.com/user-attachments/assets/c4ee8c1e-6010-4c67-9450-a914dd2691d5" alt="Get CR/NCR unmasker for Chromium"></a><br>
 </p>
-
 
 
 <h4 align="center">A minimal chrome extension that lets you see your CR/NCR marks on <a href="https://www.utsc.utoronto.ca/registrar/track-your-progress-degree-explorer" target="_blank">Degree Explorer</a>.</h4>
@@ -31,7 +38,6 @@
 ## Progress
 - [x] Chrome Extension for viewing your CR/NCR mark.
 - [ ] Open Program Recommendation (Maybe not)
-- [ ] Unit Tests
       
 <br>
 
