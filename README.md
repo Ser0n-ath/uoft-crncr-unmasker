@@ -8,9 +8,12 @@
 
 <br>
 
-> **Notice:** _As of June 15, 2025, this tool has been patched by UofT._  
-> Grades for CR/NCR courses are no longer accessible, any marks shown will now appear as **"CR"**.  
-> Thanks to everyone who found it useful while it lasted!
+> ## 📢 Notice  
+> **As of June 15, 2025, this tool has been patched by UofT.**  
+> Grades for CR/NCR courses are no longer accessible, any marks shown will now appear as **"CR"**.
+>
+> We're grateful to the **150+ users** who used this tool, and to **everyone** who showed interest and support.  
+> Thank you!
 
 <br>
 
